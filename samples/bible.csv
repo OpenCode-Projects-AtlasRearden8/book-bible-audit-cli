@@ -1,0 +1,6 @@
+category,name,aliases,eye_color,title,first_seen,died,status,notes
+character,Elena Vance,Lena,green,Captain,Day 3,Day 5,dead,She must not act on-screen after Day 5; the Day 7 ferry scene is a flashback.
+character,Marta Halloran,,brown,Professor,Day 1,,alive,She is a professor; the text must never call her Doctor or Captain.
+character,Kell,,grey,Sergeant,Day 5,,alive,Speaks only to Elena; keep his rank out of dialogue.
+place,Millhaven,,,,,,,Home port with a sea wall and an old lighthouse keeper.
+place,Ravenreach,,,,,,,Mountain keep north of Millhaven; reserved for book two.

@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {
+      "name": "Elena Vance",
+      "aliases": ["Lena"],
+      "eye_color": "green",
+      "title": "Captain",
+      "first_seen": "Day 3",
+      "died": "Day 5",
+      "status": "dead",
+      "notes": "She must not act on-screen after Day 5; the Day 7 ferry scene is a flashback."
+    },
+    {
+      "name": "Marta Halloran",
+      "aliases": [],
+      "eye_color": "brown",
+      "title": "Professor",
+      "first_seen": "Day 1",
+      "status": "alive",
+      "notes": "She is a professor; the text must never call her Doctor or Captain."
+    },
+    {
+      "name": "Kell",
+      "aliases": [],
+      "eye_color": "grey",
+      "title": "Sergeant",
+      "first_seen": "Day 5",
+      "status": "alive",
+      "notes": "Speaks only to Elena; keep his rank out of dialogue."
+    }
+  ],
+  "places": [
+    {
+      "name": "Millhaven",
+      "notes": "Home port with a sea wall and an old lighthouse keeper."
+    },
+    {
+      "name": "Ravenreach",
+      "notes": "Mountain keep north of Millhaven; reserved for book two."
+    }
+  ]
+}
